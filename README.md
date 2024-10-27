@@ -1,2 +1,2 @@
 # Devops9
-my devops pratice 
+my devops pratice on 27th oct 24
